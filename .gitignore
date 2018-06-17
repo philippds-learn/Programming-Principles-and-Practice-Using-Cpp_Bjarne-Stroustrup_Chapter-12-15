@@ -1,0 +1,24 @@
+# endings
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj
+
+# headers
+fltk.h
+Graph.h
+GUI.h
+Point.h
+Simple_window.h
+std_lib_facilities.h
+Window.h
+
+# source
+Graph.cpp
+GUI.cpp
+Window.cpp
+
+# directories
+Debug
+Release
+
+#
